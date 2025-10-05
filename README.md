@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Amrutha G S  
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/bb7abdfc-c219-4373-98da-e7bf9bdea77e" width="400" />
 </p>
