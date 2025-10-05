@@ -67,7 +67,7 @@ integrated REST APIs with Cisco DNA Center.
 ## 🌐Connect with Me
 <a href="mailto:amruthagoudar2668@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge" /></a>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/amrutha-g-s-7652b8238)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Color?style=flat&logo=logo_name&logoColor=logo_color)](Your_Portfolio_URL)
+
 
 
 ---
