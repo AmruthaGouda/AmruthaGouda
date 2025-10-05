@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Amrutha G S  
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/bb7abdfc-c219-4373-98da-e7bf9bdea77e" width="400" />
+<img src="https://github.com/user-attachments/assets/04d778d8-4595-4555-920d-98879232b63c" width="400" />
 </p>
 
 💼 Aspiring Networking Engineer |CCNA & CCNP Certified | Routing | Switching | VLANs | HSRP | OSPF | EIGRP | SD-WAN | Automation
